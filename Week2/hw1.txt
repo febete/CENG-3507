@@ -1,0 +1,56 @@
+-
+-
+HTML
+-
+-
+
+<!DOCTYPE HTML>
+<html lang = "en">
+
+  <body style="background-color:lightblue;">  
+  <font face = "Helvetica">;  
+  
+  <div align ="center";>
+  <head>
+    <strong> <font size="6">  CENG 3057: Web Dev & Prog. </font></strong>
+  </head>
+  </div>
+  <br>
+  <div class="kutu">
+    <p> <strong>Announcements </strong>
+    <hr>
+    Announ 1: Lectures are <mark>in-class</mark>
+    <br>
+    Announ 2: Lecture notes in <em>dys.mu.edu.tr</em> 
+    </p>
+  
+  </div>
+<br>
+<div align ="center">
+  <a href="https://www.webcebir.com/21-html-yazi-ve-resim-ortalama-dersi.html">Syllabus</a>
+</div>
+
+    </font>
+  
+-
+-
+CSS
+-
+-
+.kutu{
+  width: 300px;
+      height:100px;
+  
+      border: hotpink ;
+      border-style: solid;
+      border-width: 3px;  
+      padding:10px;
+     
+  
+      background-color:#FFF0F5;
+      position : relative;
+      margin : auto;
+      word-wrap:break-word;
+
+https://jsbin.com/hirocahiqe/edit?html,css,output
+
